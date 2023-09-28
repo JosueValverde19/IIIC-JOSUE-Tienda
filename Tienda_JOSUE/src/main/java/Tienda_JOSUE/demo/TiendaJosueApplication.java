@@ -1,13 +1,13 @@
-package Tienda.demo;
+package Tienda_JOSUE.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TiendaJosueValverdeApplication {
+public class TiendaJosueApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TiendaJosueValverdeApplication.class, args);
+		SpringApplication.run(TiendaJosueApplication.class, args);
 	}
 
 }
